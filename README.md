@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @korshima
-- 👀 I’m interested in robotics,automation, 3D modelling, embedded systems and microprocessors
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on robotic and industrial automation, embedded systems, 3D modelling,microprocessors
+- 👀 I’m interested in robotics, automation, 3D modelling, embedded systems.
+- 🌱 I’m currently learning  
+- 💞️ I’m looking to collaborate on robotic and industrial automation, embedded systems, 3D modelling.
 - 📫 How to reach me kennethterdoo@gmail.com
 
 <!---
